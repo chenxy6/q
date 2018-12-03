@@ -8,5 +8,9 @@
 </head>
 <body>
 	<%= pageContext.getAttribute("number") %>
+	<%= pageContext.getAttribute("number") %>
+	<%= pageContext.getAttribute("number") %>
+	<%= pageContext.getAttribute("number") %>
+	
 </body>
 </html>
